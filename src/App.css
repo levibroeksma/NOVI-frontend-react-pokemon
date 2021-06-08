@@ -1,0 +1,23 @@
+* {
+    font-family: sans-serif;
+}
+
+.card-wrapper {
+    width: 100%;
+}
+
+.card {
+    background: grey;
+    max-width: 150px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 15px;
+}
+
+.card h2 {
+    margin: 0
+}
